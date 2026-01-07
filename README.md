@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Character Sheet](https://github.com/jahdaic/jahdaic/blob/master/mini-character-sheet-light.png?raw=true#gh-light-mode-only)
+![Character Sheet](https://github.com/jahdaic/jahdaic/blob/master/mini-character-sheet-dark.png?raw=true#gh-dark-mode-only)
+
+
 <!--
 **xernete/xernete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
